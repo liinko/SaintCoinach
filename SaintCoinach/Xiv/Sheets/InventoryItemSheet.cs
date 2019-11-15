@@ -32,6 +32,10 @@ namespace SaintCoinach.Xiv.Sheets {
                 88, typeof(PhysicalWeapon)  // MCH
             }, {
                 96, typeof(PhysicalWeapon)  // SAM
+            }, {
+                106, typeof(PhysicalWeapon) // GNB
+            }, {
+                107, typeof(PhysicalWeapon) // DNC
             },
 
             // 
@@ -51,8 +55,9 @@ namespace SaintCoinach.Xiv.Sheets {
                 97, typeof(MagicWeapon)     // RDM
             }, {
                 98, typeof(MagicWeapon)     // SCH
+            }, {
+                105, typeof(MagicWeapon)    // BLU
             },
-
             // 
             {
                 11, typeof(Shield)
